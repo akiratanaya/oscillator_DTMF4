@@ -18,7 +18,7 @@ Untuk **Digit 4**:
 ## 📂 Struktur Direktori
 
 ```plaintext
-dtmf_4/
+oscillator_DTMF4/
 ├── ltspice_sim/
 │   ├── ideal_case/
 │   │   ├── Draft1.asc              # Skematik draft awal pengujian osilator
