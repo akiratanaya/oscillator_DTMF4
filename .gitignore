@@ -1,0 +1,12 @@
+# LTspice simulation outputs and temporary files
+*.raw
+*.op.raw
+*.log
+*.fft
+*.net
+*.bak
+*.tmp
+
+# Operating System files
+.DS_Store
+Thumbs.db
